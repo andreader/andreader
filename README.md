@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreader
+- 👋 Hi, I’m Andrei Sergienko @andreader
 - 👀 I’m interested in Java, Kotlin, English, also in snowboarding, motocycling, guitar playing and just doing nothing)
 - 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on wherever you want
